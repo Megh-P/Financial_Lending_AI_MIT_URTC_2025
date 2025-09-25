@@ -1,4 +1,4 @@
-# Financial_Lending_AI_MIT_URTC_2025
+# Financial_Lending_AI
 <img width="11700" height="7800" alt="Image" src="https://github.com/user-attachments/assets/99ebfa14-32b9-4562-9ab9-33e4c8c27f50" />
 
 
